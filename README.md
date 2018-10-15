@@ -1,3 +1,3 @@
 # StartingwithGit
-Learning git and experimenting with it
+Learning git and experimenting with it,
 This is for learning purpose.
