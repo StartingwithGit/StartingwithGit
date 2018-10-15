@@ -1,2 +1,2 @@
 # StartingwithGit
-Learning git
+Learning git and experimenting with it
